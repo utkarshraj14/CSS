@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: rgb(251, 255, 30);
+}
+
+.container div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+}
